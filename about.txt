@@ -1,0 +1,1 @@
+Note:This is the login application by getting password for * symbol but password is fixed one because we don't have option to access the database
